@@ -13,7 +13,8 @@
     "vue",
     "react",
     "CLI",
-    "component"
+    "component",
+    "guoshang"
   ],
   "author": "seaflyj",
   "license": "MIT",
