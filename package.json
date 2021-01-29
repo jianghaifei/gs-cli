@@ -1,6 +1,6 @@
 {
-  "name": "guosha",
-  "version": "1.1.0",
+  "name": "guoshang",
+  "version": "1.0.0",
   "description": "CLI front-end development tools",
   "main": "index.js",
   "bin": {
@@ -18,10 +18,10 @@
   ],
   "author": "seaflyj",
   "license": "MIT",
-  "homepage": "https://github.com/jianghaifei/gs-vuecli.git",
+  "homepage": "https://github.com/jianghaifei",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jianghaifei/gs-vuecli.git"
+    "url": "https://github.com/jianghaifei/gs-cli"
   },
   "dependencies": {
     "chalk": "^4.1.0",
